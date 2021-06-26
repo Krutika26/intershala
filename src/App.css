@@ -1,0 +1,126 @@
+.dashboard{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  position: relative;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: white;
+
+}
+.pie{
+  float: left;
+  height: 250px;
+  width: 300px;
+ 
+}
+.chart{
+  float: left;
+  border-color: black;
+  border-width: 10px;
+  border-style:solid;
+  background-color: #a395f3;
+  height: 250px;
+  width: 700px;
+}
+.app1{
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: black;
+  width: 200px;
+  border-width: 5px;
+  border-radius: 30px;
+  height: 40px;
+}
+.color{
+  color:mediumslateblue;
+}
+.sidebar{
+position:relative;
+width:10%;
+float: left;
+}
+.app2{
+  float:left;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #000000;
+  border-radius: 30px;
+  width: 250px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(169, 42, 207);
+  height: 40px;
+}
+.app3{
+  float:left;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #000000;
+  border-radius: 30px;
+  width: 250px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #ff0022;
+  height: 40px;
+}
+.app4{
+  float:left;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #000000;
+  border-radius: 30px;
+  width: 250px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(42, 81, 207);
+  height: 40px;
+}
+.app5{
+  float:left;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #529ff7;
+  width: 300px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  height: 60px;
+  font-size: 15px;
+}
+.app6{
+  float:left;
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #ff0022;
+  width: 300px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgb(0, 0, 0);
+  height: 60px;
+  font-size: 15px;
+}
+
+.div1{
+  float: left;
+  padding-top: 20px;
+  padding-left:110px;
+  position: relative;
+  width:70%;
+  height: 720px;
+  color: white;
+  background-color: black;
+}
+.div2{
+  background-color:rgb(0, 0, 0);
+  float:left;
+  width: 345px;
+  height: 740px;
+}
+
